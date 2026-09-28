@@ -3,3 +3,4 @@ src/prog1
 src/prog2
 src/fifo_client
 src/fifo_server
+src/signal_handler
